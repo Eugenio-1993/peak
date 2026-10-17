@@ -4,3 +4,6 @@ data/*.db
 data/*.db-journal
 .DS_Store
 *.log
+
+# Documento de trabajo personal. Nunca se sube al repositorio.
+peak-roadmap.md

@@ -1,7 +1,7 @@
 {
   "name": "peak",
   "version": "0.1.0",
-  "description": "App personal de seguimiento de hábitos, instalable como PWA en celular y portátil.",
+  "description": "App de seguimiento de hábitos para un círculo cerrado de 5 usuarios, instalable como PWA en celular y portátil.",
   "main": "server/index.js",
   "directories": {
     "doc": "docs",
