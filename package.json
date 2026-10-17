@@ -1,8 +1,8 @@
 {
   "name": "peak",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "App personal de seguimiento de hábitos, instalable como PWA en celular y portátil.",
-  "main": "index.js",
+  "main": "server/index.js",
   "directories": {
     "doc": "docs",
     "test": "tests"
@@ -15,8 +15,8 @@
     "url": "git+https://github.com/Eugenio-1993/peak.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Eugenio Enrique Morales Carrizo",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/Eugenio-1993/peak/issues"
   },
